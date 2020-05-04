@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "230879951812",
+    "firebase_url": "https://softsoccer-a4628.firebaseio.com",
+    "project_id": "softsoccer-a4628",
+    "storage_bucket": "softsoccer-a4628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230879951812:android:8340f7eb3d88ca56",
+        "android_client_info": {
+          "package_name": "com.system.marques.softsoccer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230879951812-lcl4orhn3gjoqg23hf2kgnnuovpcve63.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "230879951812-lcl4orhn3gjoqg23hf2kgnnuovpcve63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA_JdlWvJyO5kLfCzWtcyPdogguLOkxPo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
