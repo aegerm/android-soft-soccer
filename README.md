@@ -1,3 +1,10 @@
-# Soft-Soccer
+### Soft-Soccer
 
-## Aplicativo mobile para agendamento de partidas de futebol.
+### Iniciando
+- Android Studio
+- Firebase
+- Projeto realizado para cadeira de Aplicações Mobile - Engenharia da Computação
+
+### Documentação
+- https://developer.android.com/studio
+- https://firebase.google.com/?hl=pt-br
